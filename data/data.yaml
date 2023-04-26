@@ -1,5 +1,0 @@
-train: ../train/images
-test: ../test/images
-
-nc: 5
-class_names: ['hello','I Love You','No','Please','Sorry']
