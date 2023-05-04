@@ -1,0 +1,16 @@
+-f https://download.pytorch.org/whl/lts/1.8/torch_lts.html
+gdown
+Cython
+matplotlib
+numpy
+opencv-contrib-python
+pillow
+PyYAML
+scipy
+tqdm
+flask-cors
+gunicorn
+torch
+torchvision
+ultralytics
+#git+https://github.com/ultralytics/yolov5
